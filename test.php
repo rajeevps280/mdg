@@ -1,6 +1,5 @@
 <?php
 
-echo "hello";
+echo "dasdasdhello";
 echo "asdadasd";
-echo "hi";
 ?>
