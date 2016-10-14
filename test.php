@@ -1,7 +1,5 @@
 <?php
 
-echo "hello";
-echo "asdadasd";
-echo "hi";
+echo "hellofsfsdf";
 ?>
 hfghfghfghfghfh
